@@ -1,0 +1,283 @@
+PLAINS trying to generate musical form without speech or instruments
+PLAINS trying to generate musical form without speech or instruments
+Impoverished Word Selector
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+path fail: elk bird,124,24,32 -> 126,23,33: Id #10783:Path Goal Marauder Mill:Station None at 124,24,32
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+EVIL trying to generate musical form without speech or instruments
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> human,Eat,228,117,49 -> 150,130,45: Id #18310:Path Goal Seek Food Item:Station Mill Building at 213,137,49
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,Store Item in Stockpile,72,64,38 -> 64,70,38: Id #10405:Path Goal Seek Item for Storage:Station Mill Building at 41,59,38
+loop path fail: <same square> elk bird,11,80,32 -> 9,82,32: Id #10745:Path Goal Seek Station:Station Owner at 11,83,32
+loop path fail: <same square> crundle,84,4,25 -> 86,7,25: Id #10944:Path Goal Seek Station:Station Owner at 88,10,26
+loop path fail: <same square> crundle,50,18,17 -> 51,18,17: Id #10997:Path Goal Seek Station:Station Owner at 50,16,17
+path fail: troglodyte,98,134,33 -> 100,143,33: Id #10863:Path Goal Seek Station:Station Head for Edge at 100,143,33
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [5]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [3]
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,213,136,49 -> 214,136,49: Id #10441:Path Goal Performance:Station Mill Building at 211,137,49
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: elk bird,77,80,34 -> 80,81,34: Id #37547:Path Goal Seek Station Flood:Station Owner at 80,81,34
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+loop path fail: <same square> crundle,18,125,25 -> 39,143,25: Id #11013:Path Goal Seek Station:Station Owner at 65,131,25
+loop path fail: <same square> crundle,78,18,27 -> 79,17,27: Id #10897:Path Goal Seek Station:Station Owner at 83,15,27
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: crundle,191,26,27 -> 179,41,26: Id #36793:Path Goal Flee from Opponent:Station Owner at 190,19,27
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> crundle,215,148,28 -> 217,147,28: Id #37257:Path Goal Seek Station:Station Owner at 206,154,27
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,Eat,158,115,45 -> 151,131,45: Id #16923:Path Goal Seek Food Item:Station Mill Building at 192,111,45
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: giant olm,279,239,33 -> 282,237,35: Id #37654:Path Goal Chase Opponent Flood:Station None at 279,239,33
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,197,106,45 -> 195,104,45: Id #6037:Path Goal Seek Station:Station Mill Building at 196,105,45
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> human,210,139,49 -> 212,138,49: Id #2994:Path Goal Performance:Station Mill Building at 206,136,49
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: dwarf,Return Kill,144,108,45 -> 19,222,34: Id #17131:Path Goal Grab Kill:Station Mill Building at 151,106,45
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: cave crocodile,285,234,34 -> 284,235,35: Id #36905:Path Goal Seek Station Flood:Station None at 284,235,35
+loop path fail: <same square> dwarf,Drink,158,115,45 -> 154,152,45: Id #34186:Path Goal Grab Goblet:Station Mill Building at 175,110,45
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: troll,92,55,35 -> 114,0,34: Id #37215:Path Goal Seek Station:Station Head for Edge at 114,0,34
+loop path fail: <same square> human,208,138,49 -> 206,137,49: Id #2960:Path Goal Performance:Station Mill Building at 211,134,49
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag

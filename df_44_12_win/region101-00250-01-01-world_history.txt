@@ -1,0 +1,294 @@
+TESTSMALLGEN
+TESTSMALLGEN
+
+Olm men
+Amphibian men
+Antmen
+Cave swallow men
+Reptile men
+Serpent men
+Cave fish men
+Rodent men
+Cave fish men
+Reptile men
+Olm men
+Amphibian men
+Bat men
+Rodent men
+Serpent men
+Serpent men
+Amphibian men
+Cave fish men
+Reptile men
+Antmen
+Olm men
+Cave fish men
+Antmen
+Olm men
+Amphibian men
+Reptile men
+Serpent men
+Rodent men
+Reptile men
+Olm men
+Cave swallow men
+Cave fish men
+Amphibian men
+Rodent men
+Serpent men
+Antmen
+Serpent men
+Cave swallow men
+Cave fish men
+Olm men
+Antmen
+Reptile men
+Bat men
+Rodent men
+Amphibian men
+Serpent men
+Bat men
+Olm men
+Reptile men
+Amphibian men
+Cave swallow men
+Antmen
+Rodent men
+Cave fish men
+Reptile men
+Cave swallow men
+Rodent men
+Olm men
+Antmen
+Amphibian men
+Cave fish men
+Bat men
+Serpent men
+Olm men
+Serpent men
+Rodent men
+Cave fish men
+The Gravel of Wine, Dwarves
+ Worship List
+  Stettad Inkgold, deity: jewels, wealth
+  Nâlas the Parched Silver, deity: metals, fire
+  Zas Lancetargets the Duties of Amethyst, deity: fortresses, war, mountains
+  Datan the Silvery Diamonds, deity: minerals
+  Erar, deity: rulership
+  Tathtak the Oaken Tundra, deity: fish
+  Idith, deity: duty, order
+  Udar, deity: storms
+  Thol the Unseen Mist, deity: trickery
+  Allas, deity: water
+  ShilrÖr Renownedtorches the Heliotrope Meditation, deity: scholarship, writing, poetry, persuasion
+ king List
+  [*] Ducim Channeledhonored (b.??? d. 35, Reign Began: 1), *** Original Line, Married (d. 35)
+      12 Children (out-lived 5 of them) -- Ages at death: 33 32 30 29 (d. 7) (d. 15) (d. 15) (d. 15) 22 18 14 (d. 30)
+      Worshipped Datan the Silvery Diamonds (4%)
+  [*] Id Scribesword (b.13 d. 181, Reign Began: 36), Inherited from mother, Married (d. 76)
+      13 Children (out-lived 6 of them) -- Ages at death: (d. 180) (d. 54) 150 149 (d. 43) (d. 43) 139 (d. 112) (d. 110) 121 119 112 108
+      Worshipped Nâlas the Parched Silver (73%)
+  [*] Kel Tomekissed (b.69 d. 221, Reign Began: 181), Inherited from mother, Married (d. 237)
+      1 Child -- Ages at death: 135
+      Worshipped Nâlas the Parched Silver (64%)
+  [*] Litast Barbwound (b.86, Reign Began: 221), Inherited from mother, Never Married
+      No Children
+The Kingdoms of Sliding, Humans
+ Worship List
+  Nifih, deity: fortresses, trees
+  Busbel, deity: birth
+  Lelgo the Poem of Berries, deity: love
+  Sahthet, deity: treachery, trickery, lies
+  Al†, deity: victory
+  Thudu, deity: rainbows, the sky, the wind
+  Len the Inky Twinkle, deity: light
+ law-giver List
+  [*] Tod Lovershort (b.??? d. 53, Reign Began: 1), *** Original Line, Married (d. 38)
+      13 Children (out-lived 2 of them) -- Ages at death: 51 50 49 48 46 (d. 9) 42 40 36 (d. 25) 27 26 23
+      Worshipped Len the Inky Twinkle (16%)
+  [*] Siti Losthushed (b.13 d. 91, Reign Began: 53), Inherited from mother, Never Married
+      9 Children (out-lived 5 of them) -- Ages at death: (d. 90) (d. 30) (d. 32) 58 56 (d. 79) 48 46 (d. 79)
+      Worshipped Thudu (100%)
+  [*] Pobe Shaftgullies (b.45 d. 115, Reign Began: 91), Inherited from father, Married (d. 122)
+      16 Children (out-lived 4 of them) -- Ages at death: 57 56 55 (d. 93) 53 52 (d. 67) (d. 87) 32 (d. 100) 9 8 7 6 2 1
+  [*] Ca§i Whispersdike (b.83 d. 195, Reign Began: 115), Inherited from father, Married (d. 99)
+      4 Children (out-lived 4 of them) -- Ages at death: (d. 174) (d. 174) (d. 181) (d. 115)
+  [*] Batow Bathedcloisters (b.159, Reign Began: 195), *** New Line, Married (d. 243)
+      10 Children -- Ages: 73 63 53 52 44 40 35 33 22 16
+      Worships Lelgo the Poem of Berries (66%)
+Shlabachlinkis, Kobolds
+The New Hatred, Goblins
+ master List
+  [*] Femeli Chucknights the Prestigious Hole of Persuaders (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+The Grizzly Sparkles, Elves
+ Worship List
+  The Leopard of Skins, force: nature, rivers
+ druid List
+  [*] Mawada Woodenautumn (b.??? d. 9, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (29%)
+  [*] òemeni Embracedtactics (b.??? d. 56, Reign Began: 10), *** New Line, Married (d. 29)
+      6 Children (out-lived 5 of them) -- Ages at death: (d. 10) (d. 35) (d. 50) 43 (d. 21) (d. 33)
+      Worshipped The Leopard of Skins (85%)
+  [*] Themiyi Lilacsank (b.??? d. 68, Reign Began: 57), *** New Line, Married (d. 68)
+      5 Children (out-lived 3 of them) -- Ages at death: 11 (d. 62) 9 (d. 61) (d. 66)
+      Worshipped The Leopard of Skins (85%)
+  [*] Eslome Eyesparkle (b.41 d. 69, Reign Began: 69), *** New Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (26%)
+  [*] Kifino Jumpcrow (b.???, Reign Began: 70), *** New Line, Married (d. 90)
+      6 Children -- Ages: 168 167 166 165 164 161
+      Worships The Leopard of Skins (3%)
+ princess List
+  [*] Liyçòi Cactusstill (b.??? d. 9, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (60%)
+  [*] Epeve Renownoranges (b.??? d. 10, Reign Began: 10), *** New Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (82%)
+  [*] Camela Beastdales (b.??? d. 56, Reign Began: 11), *** New Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (90%)
+  [*] Fçma Stylebegan (b.??? d. 68, Reign Began: 57), *** New Line, Married (d. 54)
+      7 Children (out-lived 5 of them) -- Ages at death: (d. 50) (d. 56) (d. 56) (d. 40) 23 (d. 63) 18
+      Worshipped The Leopard of Skins (24%)
+  [*] Sareve Sheenstyle (b.57 d. 69, Reign Began: 69), *** New Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (85%)
+  [*] Vaci Latheredwet (b.???, Reign Began: 71), *** New Line, Never Married
+      No Children
+      Worships The Leopard of Skins (63%)
+ queen List
+  [*] Romimi Notchjungles (b.??? d. 9, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (55%)
+  [*] Gica Musicclenched (b.??? d. 56, Reign Began: 10), *** New Line, Married (d. 19)
+      1 Child (out-lived) -- Ages at death: (d. 50)
+      Worshipped The Leopard of Skins (23%)
+  [*] Rofa Fernwax (b.??? d. 68, Reign Began: 57), *** New Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (27%)
+  [*] Atha Doorsquid (b.??? d. 69, Reign Began: 69), *** New Line, Never Married
+      No Children
+      Worshipped The Leopard of Skins (99%)
+  [*] Lolama Odorhawks (b.???, Reign Began: 70), *** New Line, Married
+      21 Children -- Ages: 177 176 175 173 166 161 159 152 148 145 134 131 129 128 102 100 89 65 63 39 21
+      Worships The Leopard of Skins (23%)
+The Short Ship, Dwarves
+ Worship List
+  Ber Tealpale, deity: jewels, minerals
+  Etur the Gorge of Diamonds, deity: metals
+  Legon, deity: wealth, trade
+  Thusest the Blanketed Sabres, deity: fortresses, war, victory
+  The Cinnamon Harvest, deity: mountains, hospitality
+  Ud, deity: storms, fate
+ king List
+  [*] Kadol Glazepure (b.??? d. 81, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Thusest the Blanketed Sabres (84%)
+  [*] Dìbar Necroarmor (b.61 d. 227, Reign Began: 81), *** New Line, Married (d. 228)
+      8 Children (out-lived 4 of them) -- Ages at death: (d. 121) (d. 93) 151 149 145 (d. 132) (d. 111) 129
+      Worshipped Ud (35%)
+  [*] Bomrek Lizardfigure (b.98 d. 250, Reign Began: 227), Inherited from father, Never Married
+      No Children
+  [*] Ubbul Planepaddled (b.214, Reign Began: 250), *** New Line, Married
+      No Children
+      Worships Ber Tealpale (67%)
+The Last Evil, Goblins
+ master List
+  [*] Kothvir the Molten Jewels (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+  [*] Ngom Stolentaper (b.67 d. 161, Reign Began: 93), *** New Line, Never Married
+      No Children
+  [*] Zolak Witchsmoulder (b.72 d. 185, Reign Began: 94), *** New Line, Never Married
+      No Children
+  [*] Ngerxung Ghoulstern (b.??? d. 227, Reign Began: 95), *** New Line, Never Married
+      No Children
+  [*] Ago Wickedwaddled (b.???, Reign Began: 96), *** New Line, Never Married
+      No Children
+  [*] Gozru Wiremenaced (b.??? d. 227, Reign Began: 97), *** New Line, Never Married
+      No Children
+  [*] Gozru Rumoredpoisons (b.??? d. 110, Reign Began: 98), *** New Line, Never Married
+      No Children
+  [*] Nako Poisongrips (b.??? d. 233, Reign Began: 99), *** New Line, Never Married
+      No Children
+  [*] Snodub Earlymenace (b.??? d. 150, Reign Began: 100), *** New Line, Never Married
+      No Children
+  [*] Dang Scratchfell (b.??? d. 111, Reign Began: 101), *** New Line, Never Married
+      No Children
+  [*] Tobul Strokerazors (b.100, Reign Began: 112), *** New Line, Married (d. 114)
+      No Children
+  [*] Bosa Hateliving (b.???, Reign Began: 123), *** New Line, Never Married
+      No Children
+  [*] Smunstu Malignedscraped (b.??? d. 219, Reign Began: 145), *** New Line, Never Married
+      No Children
+  [*] Ago Slitsseduced (b.???, Reign Began: 146), *** New Line, Never Married
+      No Children
+  [*] Osta Groovedoom (b.??? d. 248, Reign Began: 147), *** New Line, Never Married
+      No Children
+  [*] Zolak Stealmortals (b.??? d. 245, Reign Began: 148), *** New Line, Never Married
+      No Children
+  [*] Smunstu Malignedscraped (b.??? d. 219, Reign Began: 216), *** New Line, Never Married
+      No Children
+  [*] Tobul Strokerazors (b.100, Reign Began: 220), *** New Line, Married (d. 114)
+      No Children
+Thlibibistruldus, Kobolds
+The Reclusive Swamps, Elves
+ Worship List
+  Mina the Spray of Weather, force: nature, rivers
+ druid List
+  [*] Nawara Squidbound (b.??? d. 12, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Mina the Spray of Weather (64%)
+  [*] Sareve Stoppedwind (b.??? d. 88, Reign Began: 13), *** New Line, Married
+      12 Children (out-lived 3 of them) -- Ages at death: 62 61 (d. 44) 59 (d. 78) 57 51 47 39 (d. 72) 25 5
+      Worshipped Mina the Spray of Weather (49%)
+  [*] Ova Waybud (b.???, Reign Began: 89), *** New Line, Never Married
+      No Children
+      Worships Mina the Spray of Weather (49%)
+ princess List
+  [*] Ruòava Dangerbears (b.??? d. 43, Reign Began: 1), *** Original Line, Never Married
+      1 Child -- Ages at death: 33
+      Worshipped Mina the Spray of Weather (64%)
+  [*] Alisa Secretbeards (b.??? d. 12, Reign Began: 11), *** New Line, Married (d. 33)
+      2 Children -- Ages at death: 3 2
+      Worshipped Mina the Spray of Weather (44%)
+  [*] Tipi Howlflight (b.??? d. 79, Reign Began: 13), *** New Line, Married (d. 110)
+      7 Children (out-lived 2 of them) -- Ages at death: 62 (d. 74) 60 23 21 20 (d. 77)
+      Worshipped Mina the Spray of Weather (62%)
+  [*] Amane Ramtwinkled (b.49, Reign Began: 80), *** New Line, Married
+      18 Children -- Ages: 182 181 180 179 168 167 160 158 146 144 134 125 110 108 94 93 91 90
+ queen List
+  [*] Iru Squidtrances (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Mina the Spray of Weather (84%)
+The Realm of Camps, Humans
+ Worship List
+  Anir, deity: inspiration, art
+  Lasod Goldengrand, deity: war, valor, the wind
+  Sitsu the Cavernous Dusk, deity: twilight
+  Umil, deity: chaos
+  Nepe, deity: volcanos, fire, the sun
+  The Mysterious Cave, deity: the stars, the sky
+  Obin, deity: mountains
+  Mothi, deity: theft
+  Rush†n Booksavants, deity: scholarship
+  Nato, deity: nightmares, caverns, earth
+ law-giver List
+  [*] Dema Clodtaupe (b.??? d. 49, Reign Began: 2), *** Original Line, Never Married
+      No Children
+      Worshipped The Mysterious Cave (100%)
+  [*] Tihsa Onionconjured (b.8 d. 77, Reign Began: 50), *** New Line, Married (d. 121)
+      7 Children (out-lived 1 of them) -- Ages at death: (d. 69) 55 54 53 52 47 40
+      Worshipped Anir (66%)
+  [*] Lami Inktour (b.24 d. 114, Reign Began: 77), Inherited from father, Married (d. 131)
+      12 Children (out-lived 3 of them) -- Ages at death: (d. 97) 76 (d. 105) 69 63 62 61 (d. 111) 54 51 47 16
+      Worshipped Umil (77%)
+  [*] Jeha Fondleddroop (b.45 d. 149, Reign Began: 114), Inherited from mother, Never Married
+      No Children
+  [*] Oxul Roundphantom (b.127 d. 235, Reign Began: 149), *** New Line, Never Married
+      No Children
+  [*] Moto Spreadboarded (b.175, Reign Began: 235), *** New Line, Never Married
+      No Children
+      Worships Sitsu the Cavernous Dusk (91%)
